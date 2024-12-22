@@ -1,1 +1,11 @@
 # CS-305-Module-Eight-Journal
+
+Artemis Financial is a financial services client requiring robust software security enhancements to protect sensitive data and ensure secure communication. The company tasked us with identifying and addressing vulnerabilities in their existing system to mitigate risks and align with industry standards. Our primary focus was to secure data transmission and enhance application functionality while maintaining high levels of security.
+
+The vulnerability assessment process highlighted areas for improvement, such as integrating cryptographic algorithms like AES and SHA-256. AES provides efficient, secure data encryption, while SHA-256 ensures data integrity during transmission. These implementations demonstrated our commitment to adopting best practices and maintaining a secure software environment. This work underscores the importance of secure coding, which not only prevents potential breaches but also builds user trust and compliance with regulatory standards.
+
+One challenging yet enlightening part of the assessment was transitioning from HTTP to HTTPS using Spring Boot. This required reconfiguring the system to secure all communications against interception. Additionally, implementing modular methods like bytesToHex streamlined the code and facilitated maintainability. Rigorous functional testing ensured that the updated application was both secure and operational, with no new vulnerabilities introduced.
+
+To enhance security further, we followed industry-standard best practices such as modularization, robust error handling, and compliance with NIST-approved cryptographic protocols. Moving forward, I would recommend utilizing automated vulnerability scanning tools and frameworks to identify and address future risks efficiently. Such measures add layers of defense, ensuring Artemis Financial’s data remains secure.
+
+For future employers, this project demonstrates proficiency in securing applications, identifying vulnerabilities, and implementing scalable solutions. It highlights skills in cryptography, secure communications, and adherence to best practices, making it a strong portfolio example of successfully addressing real-world security challenges.
